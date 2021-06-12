@@ -1,10 +1,10 @@
 title: Tanesha Subramaniam # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   Senior Data Analyst at Minted
-  Second description 
-  Strong interest in data analytics and data science
+  <br><br>
+  Strong interest in data analytics and data science 
+  <br><br>
   <a href="https://www.linkedin.com/in/tanesha-subramaniam-762bab76/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
