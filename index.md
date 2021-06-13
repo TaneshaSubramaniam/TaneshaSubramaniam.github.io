@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Final Project](http://TaneshaSubramaniam.github.io/projects-html/Final%20Project%20COMPSCIX415.2-013.html)
+- [Weather in Australia -- Will it rain the next day?](http://TaneshaSubramaniam.github.io/selectedprojects/weatherAUS)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
